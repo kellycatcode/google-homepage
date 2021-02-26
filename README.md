@@ -1,1 +1,1 @@
-Replicating the google homepage for practice.
+Replicating the google home page for practice.
